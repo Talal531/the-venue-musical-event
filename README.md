@@ -11,4 +11,4 @@ yarn install
 yarn start
 ```
 
-goto localhost:3000 in your browser
+goto http://localhost:3000 in your browser
