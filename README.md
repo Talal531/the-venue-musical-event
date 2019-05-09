@@ -1,4 +1,4 @@
-Simple UI design for Musical Events Website using ##React.js
+Simple UI design for Musical Events Website using ## React.js
 
 ### setp 1
 ```
